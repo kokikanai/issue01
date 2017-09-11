@@ -12,6 +12,7 @@ public class Hoo {
 
         try {
             InputStream in = new FileInputStream(new File("./test"));
+            
         } catch (IOException e) {
         }
     }
